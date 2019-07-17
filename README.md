@@ -6,7 +6,7 @@ A supplemental units package of [Julia](https://julialang.org)'s [Unitful.jl](ht
 
 * [Gauss](https://en.wikipedia.org/wiki/Gauss_(unit))
 * [ppm](https://en.wikipedia.org/wiki/Parts-per_notation) (to be added)
-* (More. You are welcome to contribute.)
+* (More. You are welcomed to contribute.)
 
 ## Why making this package
 
